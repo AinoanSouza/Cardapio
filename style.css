@@ -1,0 +1,96 @@
+body{
+    background-color:#ffe8d6;;
+    margin:auto;
+    border:10px rgb(207, 87, 115);
+    border-style:double;
+}
+footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background: rgb(255, 253, 253);
+  color: white;
+  height: 40px;
+  display: flex;
+ }
+h1{
+    color:#87240b;
+    font-weight:530;
+    text-align: center;
+    font-family:Apple Chancery, cursive; 
+    padding-bottom:50px;
+    padding-top:50px; 
+  }
+  h2 {
+  color:#87240b; 
+  font-weight:600;
+  font-family:Apple Chancery, cursive;
+  font-size: medium;
+  margin-bottom:5px;
+}
+h3 {
+    font-weight:500;
+    padding-left:20px;
+    font-family:Apple Chancery, cursive;
+}
+h4 {
+  text-align: left;
+  font-weight: 600;
+  font-family:'Times New Roman', Times, serif;
+}
+  p{
+    text-align: left;
+    line-height:15px;
+    width:400px;
+    padding-left:20px;
+    font-size: small;
+    font-family:'Times New Roman', Times, serif;
+  }
+#logo {
+  width:60%;
+  float:center;
+  text-align: center;
+  padding-left:20%;
+  }
+  .bolo1 {
+  text-align: left; 
+  width: 0px;
+  line-height:30px;
+  padding-bottom:10px;
+}
+.final{
+  padding-left:20px;
+  content: "";
+  clear: both;
+  display: table;
+}
+#tapioca {
+  width:240px;
+  height:150px;
+  float:right;
+  padding-right:20px;
+}
+#mor {
+  width:240px;
+  float:right;
+  padding-right:20px;
+}
+#choc {
+ float:right;
+ width:240px;
+ height:150px;
+ padding-right:20px;
+}
+#lim {
+  width:240px;
+  height:160px;
+  float:right;
+  padding-right:20px;
+}
+#pedaços {
+  width:300px;
+  float:right;
+  padding-left:350px;
+  padding-right:10px;
+}
